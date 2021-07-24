@@ -1,0 +1,11 @@
+[
+  {
+    "QuestionId": 1,
+    "Question": In which year INDIA got Independence?,
+    "OptionId": "1",
+    "OptionMessage": "1947",
+    "OptionId": "2",
+    "OptionMessage":"1946",
+    "Answer":"1947"
+  }
+]
